@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+h1{
+	color: white;
+	font-family: 'Girassol', cursive;
+}
+
+body{
+	background-color: pink;
+}
+
+
+.header{
+	background-image: url("../images/430387.jpeg");
+	text-align: left;
+	padding: 17px;
+	margin-bottom: 35px;
+}
+
+
+img{
+	margin-left: 10px;
+	margin-right: 35px;
+	float: left;
+}
+
+p{
+margin-right: 35px;
+margin-top: 10px;
+}
+
+.paragraph-1{
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.list{
+	margin-top: 15px;
+}
